@@ -4,7 +4,7 @@
       <title>Your Great App's Changelog</title>
       <link>http://you.com/app/appcast.xml</link>
       <description>Most recent changes with links to updates.</description>
-      <language>en</language>
+      <language>ja</language>
          <item>
             <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
 						<sparkle:releaseNotesLink>
