@@ -7,8 +7,6 @@
      <language>ja</language>
        <item xml:lang='en'>
          <title>タイトル１</title>
-	 <sparkle:releaseNotesLink xml:lang='en'>http://you.com/app/1.4.html</sparkle:releaseNotesLink>
-         <pubDate xml:lang='en'>Wed, 25 Dec 2005 12:20:11 +0000</pubDate>
          <enclosure url="https://apps.apple.com/app/id6443856744" sparkle:version="1.3.5" />
        </item>
   </channel>
