@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+   <channel>
+      <title>Antee</title>
+      <item>
+         <title>Version 1.15.0</title>
+         <description>Cleveland Clinic Patient App</description>
+         <pubDate>Wed, 23 Oct 2019 12:00:00 +0000</pubDate>
+         <enclosure url="https://apps.apple.com/app/id6443856744" sparkle:version="1.4.0" />
+      </item>
+   </channel>
+</rss>
