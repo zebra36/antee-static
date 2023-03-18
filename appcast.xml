@@ -6,7 +6,7 @@
          <title>Version 1.15.0</title>
          <description>Cleveland Clinic Patient App</description>
          <pubDate>Wed, 23 Oct 2019 12:00:00 +0000</pubDate>
-         <enclosure url="https://apps.apple.com/app/id6443856744" sparkle:version="1.4.0" />
+         <enclosure url="https://apps.apple.com/app/id6443856744" sparkle:version="1.4.0" sparkle:os="iOS" />
       </item>
    </channel>
 </rss>
