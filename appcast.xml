@@ -3,7 +3,7 @@
   <channel>
      <title>タイトル</title>
      <description>説明</description>
-     <language>ja</language>
+     <language>en</language>
        <item>
          <enclosure url="https://apps.apple.com/app/id6443856744" sparkle:version="1.4.0" />
        </item>
